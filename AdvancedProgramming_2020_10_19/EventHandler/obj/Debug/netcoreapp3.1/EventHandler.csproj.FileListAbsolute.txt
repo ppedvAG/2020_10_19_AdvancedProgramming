@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\bin\Debug\netcoreapp3.1\EventHandler.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.csprojAssemblyReference.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\EventHandler\obj\Debug\netcoreapp3.1\EventHandler.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\bin\Debug\netcoreapp3.1\NullableDataTypes.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\bin\Debug\netcoreapp3.1\NullableDataTypes.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\bin\Debug\netcoreapp3.1\NullableDataTypes.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\bin\Debug\netcoreapp3.1\NullableDataTypes.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\bin\Debug\netcoreapp3.1\NullableDataTypes.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\bin\Debug\netcoreapp3.1\NullableDataTypes.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.genruntimeconfig.cache

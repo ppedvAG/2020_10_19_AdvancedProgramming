@@ -1,1 +1,7 @@
 https://github.com/SharpRepository/SharpRepository/tree/develop/SharpRepository.Repository
+
+SourceCode von .NET Core
+https://referencesource.microsoft.com/
+
+Weitere Microsoft Beispiele (Advanced) 
+-> https://github.com/dotnet/samples

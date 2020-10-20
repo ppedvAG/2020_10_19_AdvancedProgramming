@@ -1,0 +1,9 @@
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\bin\Debug\netcoreapp3.1\SingletonSampleQ1.deps.json
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\bin\Debug\netcoreapp3.1\SingletonSampleQ1.dll
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\bin\Debug\netcoreapp3.1\SingletonSampleQ1.pdb
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.csprojAssemblyReference.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.AssemblyInfoInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.AssemblyInfo.cs
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.csproj.CoreCompileInputs.cache
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.dll
+C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.pdb

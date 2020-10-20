@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\bin\Debug\netcoreapp3.1\004_Lock.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\bin\Debug\netcoreapp3.1\004_Lock.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\bin\Debug\netcoreapp3.1\004_Lock.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\bin\Debug\netcoreapp3.1\004_Lock.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\bin\Debug\netcoreapp3.1\004_Lock.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\bin\Debug\netcoreapp3.1\004_Lock.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.genruntimeconfig.cache

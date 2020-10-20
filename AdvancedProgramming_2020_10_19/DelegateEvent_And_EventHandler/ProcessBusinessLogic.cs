@@ -35,12 +35,8 @@ namespace DelegateEvent_And_EventHandler
 
             //Mache etwas!!!!
 
-
-
             MyEventArg myEventArg = new MyEventArg();
             myEventArg.Uhrzeit = DateTime.Now;
-
-
 
             OnProcessCompleted(EventArgs.Empty); //No event data -> Beispiel1
             OnProcessCompletedNew(myEventArg); //Beispiel 2

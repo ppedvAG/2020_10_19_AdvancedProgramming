@@ -10,3 +10,4 @@ C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.dll
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.pdb
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.genruntimeconfig.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\NullableDataTypes\obj\Debug\netcoreapp3.1\NullableDataTypes.csprojAssemblyReference.cache

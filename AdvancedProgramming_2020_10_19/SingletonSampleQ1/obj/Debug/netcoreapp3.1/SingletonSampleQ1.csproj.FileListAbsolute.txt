@@ -7,3 +7,12 @@ C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debu
 C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.csproj.CoreCompileInputs.cache
 C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.dll
 C:\Kurse\Meine Vorlagen\Web Architektur\DesignPattern\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\bin\Debug\netcoreapp3.1\SingletonSampleQ1.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\bin\Debug\netcoreapp3.1\SingletonSampleQ1.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\bin\Debug\netcoreapp3.1\SingletonSampleQ1.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.csprojAssemblyReference.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\SingletonSampleQ1\obj\Debug\netcoreapp3.1\SingletonSampleQ1.pdb

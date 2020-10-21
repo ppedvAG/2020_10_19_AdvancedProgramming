@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gernics_Constraints/1.0.0": {
+        "runtime": {
+          "Gernics_Constraints.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gernics_Constraints/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -2,3 +2,12 @@ C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\obj\Debug\netcoreapp3.1\CSharp80_Features.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\obj\Debug\netcoreapp3.1\CSharp80_Features.AssemblyInfo.cs
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\obj\Debug\netcoreapp3.1\CSharp80_Features.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\bin\Debug\netcoreapp3.1\CSharp80_Features.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\bin\Debug\netcoreapp3.1\CSharp80_Features.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\bin\Debug\netcoreapp3.1\CSharp80_Features.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\bin\Debug\netcoreapp3.1\CSharp80_Features.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\bin\Debug\netcoreapp3.1\CSharp80_Features.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\bin\Debug\netcoreapp3.1\CSharp80_Features.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\obj\Debug\netcoreapp3.1\CSharp80_Features.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\obj\Debug\netcoreapp3.1\CSharp80_Features.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\CSharp80_Features\obj\Debug\netcoreapp3.1\CSharp80_Features.genruntimeconfig.cache

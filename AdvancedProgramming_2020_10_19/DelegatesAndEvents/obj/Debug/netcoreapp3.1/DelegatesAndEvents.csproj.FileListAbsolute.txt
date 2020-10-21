@@ -10,3 +10,4 @@ C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DelegatesAndEvents\obj\Debug\netcoreapp3.1\DelegatesAndEvents.dll
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DelegatesAndEvents\obj\Debug\netcoreapp3.1\DelegatesAndEvents.pdb
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DelegatesAndEvents\obj\Debug\netcoreapp3.1\DelegatesAndEvents.genruntimeconfig.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DelegatesAndEvents\obj\Debug\netcoreapp3.1\DelegatesAndEvents.csprojAssemblyReference.cache

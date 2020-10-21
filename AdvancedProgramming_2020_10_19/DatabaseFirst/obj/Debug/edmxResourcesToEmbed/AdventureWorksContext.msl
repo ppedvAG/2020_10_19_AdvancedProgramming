@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="AdventureWorks2017ModelStoreContainer" CdmEntityContainer="AdventureWorks2017Entities">
+    <EntitySetMapping Name="Address">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.Address">
+        <MappingFragment StoreEntitySet="Address">
+          <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+          <ScalarProperty Name="AddressLine1" ColumnName="AddressLine1" />
+          <ScalarProperty Name="AddressLine2" ColumnName="AddressLine2" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="StateProvinceID" ColumnName="StateProvinceID" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="SpatialLocation" ColumnName="SpatialLocation" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="AddressType">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.AddressType">
+        <MappingFragment StoreEntitySet="AddressType">
+          <ScalarProperty Name="AddressTypeID" ColumnName="AddressTypeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BusinessEntity">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.BusinessEntity">
+        <MappingFragment StoreEntitySet="BusinessEntity">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BusinessEntityAddress">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.BusinessEntityAddress">
+        <MappingFragment StoreEntitySet="BusinessEntityAddress">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+          <ScalarProperty Name="AddressTypeID" ColumnName="AddressTypeID" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BusinessEntityContact">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.BusinessEntityContact">
+        <MappingFragment StoreEntitySet="BusinessEntityContact">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="PersonID" ColumnName="PersonID" />
+          <ScalarProperty Name="ContactTypeID" ColumnName="ContactTypeID" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ContactType">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.ContactType">
+        <MappingFragment StoreEntitySet="ContactType">
+          <ScalarProperty Name="ContactTypeID" ColumnName="ContactTypeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CountryRegion">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.CountryRegion">
+        <MappingFragment StoreEntitySet="CountryRegion">
+          <ScalarProperty Name="CountryRegionCode" ColumnName="CountryRegionCode" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EmailAddress">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.EmailAddress">
+        <MappingFragment StoreEntitySet="EmailAddress">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="EmailAddressID" ColumnName="EmailAddressID" />
+          <ScalarProperty Name="EmailAddress1" ColumnName="EmailAddress" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Password">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.Password">
+        <MappingFragment StoreEntitySet="Password">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="PasswordSalt" ColumnName="PasswordSalt" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Person">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.Person">
+        <MappingFragment StoreEntitySet="Person">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="PersonType" ColumnName="PersonType" />
+          <ScalarProperty Name="NameStyle" ColumnName="NameStyle" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Suffix" ColumnName="Suffix" />
+          <ScalarProperty Name="EmailPromotion" ColumnName="EmailPromotion" />
+          <ScalarProperty Name="AdditionalContactInfo" ColumnName="AdditionalContactInfo" />
+          <ScalarProperty Name="Demographics" ColumnName="Demographics" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PersonPhone">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.PersonPhone">
+        <MappingFragment StoreEntitySet="PersonPhone">
+          <ScalarProperty Name="BusinessEntityID" ColumnName="BusinessEntityID" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="PhoneNumberTypeID" ColumnName="PhoneNumberTypeID" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhoneNumberType">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.PhoneNumberType">
+        <MappingFragment StoreEntitySet="PhoneNumberType">
+          <ScalarProperty Name="PhoneNumberTypeID" ColumnName="PhoneNumberTypeID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StateProvince">
+      <EntityTypeMapping TypeName="AdventureWorks2017Model.StateProvince">
+        <MappingFragment StoreEntitySet="StateProvince">
+          <ScalarProperty Name="StateProvinceID" ColumnName="StateProvinceID" />
+          <ScalarProperty Name="StateProvinceCode" ColumnName="StateProvinceCode" />
+          <ScalarProperty Name="CountryRegionCode" ColumnName="CountryRegionCode" />
+          <ScalarProperty Name="IsOnlyStateProvinceFlag" ColumnName="IsOnlyStateProvinceFlag" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="TerritoryID" ColumnName="TerritoryID" />
+          <ScalarProperty Name="rowguid" ColumnName="rowguid" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

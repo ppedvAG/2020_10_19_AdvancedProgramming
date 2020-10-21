@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\bin\Debug\netcoreapp3.1\LinqSample.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\LinqSample\obj\Debug\netcoreapp3.1\LinqSample.genruntimeconfig.cache

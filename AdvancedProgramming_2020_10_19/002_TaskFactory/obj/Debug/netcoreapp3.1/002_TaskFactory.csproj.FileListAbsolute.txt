@@ -10,3 +10,4 @@ C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\002_TaskFactory\obj\Debug\netcoreapp3.1\002_TaskFactory.dll
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\002_TaskFactory\obj\Debug\netcoreapp3.1\002_TaskFactory.pdb
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\002_TaskFactory\obj\Debug\netcoreapp3.1\002_TaskFactory.genruntimeconfig.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\002_TaskFactory\obj\Debug\netcoreapp3.1\002_TaskFactory.csprojAssemblyReference.cache

@@ -10,3 +10,4 @@ C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.dll
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.pdb
 C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.genruntimeconfig.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\004_Lock\obj\Debug\netcoreapp3.1\004_Lock.csprojAssemblyReference.cache

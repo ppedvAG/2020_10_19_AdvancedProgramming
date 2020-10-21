@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\obj\Debug\DatabaseFirst.csprojAssemblyReference.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\DatabaseFirst.exe.config
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\DatabaseFirst.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\DatabaseFirst.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\EntityFramework.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\EntityFramework.xml
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\obj\Debug\DatabaseFirst.csproj.CopyComplete
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\obj\Debug\DatabaseFirst.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\DatabaseFirst\obj\Debug\DatabaseFirst.pdb

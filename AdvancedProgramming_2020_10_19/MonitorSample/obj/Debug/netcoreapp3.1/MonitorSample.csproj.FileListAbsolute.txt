@@ -1,0 +1,13 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.exe
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.runtimeconfig.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\bin\Debug\netcoreapp3.1\MonitorSample.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.csprojAssemblyReference.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\MonitorSample\obj\Debug\netcoreapp3.1\MonitorSample.genruntimeconfig.cache

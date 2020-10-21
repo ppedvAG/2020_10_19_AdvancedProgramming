@@ -24,10 +24,63 @@ Gernic Interfaces:
 https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/generics/generic-interfaces
 
 
-
-
-
-
 101 Linq Samples 
 - Online Version -> https://linqsamples.com/
 - Offline Version -> https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/
+
+
+
+Visual Studio Preview Version -> Man kann die neusten Entwicklungen von GitHub ausprobieren. 
+-> https://visualstudio.microsoft.com/de/vs/preview/
+
+Aktueller Release Candidat .NET 5.0 
+->https://devblogs.microsoft.com/dotnet/announcing-net-5-0-preview-8/
+
+
+Benchmark C# VS Other Languages
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharp.html
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/csharpcore-csharppreview.html
+
+
+
+Blogs:
+https://martinfowler.com/
+https://thedatafarm.com/
+https://devblogs.microsoft.com/dotnet/author/scott-h/
+
+Video-Channel: 
+https://www.youtube.com/user/IAmTimCorey/videos
+
+
+
+gRPC:
+https://grpc.io/blog/grpc-on-dotnetcore/
+
+gRPC für WCF Programmierer
+https://docs.microsoft.com/de-de/dotnet/architecture/grpc-for-wcf-developers/
+
+(Download-Link) -> https://docs.microsoft.com/de-de/dotnet/opbuildpdf/architecture/grpc-for-wcf-developers/toc.pdf?branch=live
+
+WCF Core:
+https://github.com/CoreWCF/CoreWCF
+
+
+MAUI 3 (Weiterentwicklung von Xamarin Forms)
+- Erscheint Nov 2021 
+- https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/
+
+- Github-Repository->https://github.com/dotnet/maui
+
+
+WinUI3 
+https://blogs.windows.com/windowsdeveloper/2020/07/07/a-deep-dive-into-winui-3-in-desktop-apps/
+https://docs.microsoft.com/de-de/windows/apps/winui/winui3/
+
+EF5 Core (Neuerungen)
+https://www.learnentityframeworkcore5.com/whats-new-in-ef-core-5 
+
+
+
+
+
+

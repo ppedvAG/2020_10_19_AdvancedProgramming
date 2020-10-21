@@ -1,0 +1,8 @@
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\HelloReflections\bin\Debug\netcoreapp3.1\netcoreapp3.1\TrumpTaschenrechner.deps.json
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\HelloReflections\bin\Debug\netcoreapp3.1\netcoreapp3.1\TrumpTaschenrechner.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\HelloReflections\bin\Debug\netcoreapp3.1\netcoreapp3.1\TrumpTaschenrechner.pdb
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\TrumpTaschenrechner\obj\Debug\netcoreapp3.1\TrumpTaschenrechner.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\TrumpTaschenrechner\obj\Debug\netcoreapp3.1\TrumpTaschenrechner.AssemblyInfo.cs
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\TrumpTaschenrechner\obj\Debug\netcoreapp3.1\TrumpTaschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\TrumpTaschenrechner\obj\Debug\netcoreapp3.1\TrumpTaschenrechner.dll
+C:\Aktueller Kurs\2020_10_19_AdvancedProgramming\AdvancedProgramming_2020_10_19\TrumpTaschenrechner\obj\Debug\netcoreapp3.1\TrumpTaschenrechner.pdb

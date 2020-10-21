@@ -22,8 +22,6 @@ namespace _001_ParameterloserThread
 
             Console.WriteLine("Hello World!");
 
-
-
             for (int i = 0; i < 100; i++)
             {
                 

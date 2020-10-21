@@ -15,7 +15,8 @@ public class WhenAllExample
             tasks.Add(Task.Factory.StartNew(b => (int)b * (int)b, baseValue));
         }
 
-        var results = await Task.WhenAll(tasks); //Es geht nur weiter, wenn alle Tasks fertig abgearbeitet sind
+
+        int[] results = await Task.WhenAll(tasks); //Es geht nur weiter, wenn alle Tasks fertig abgearbeitet sind
 
         int sum = 0;
         for (int ctr = 0; ctr <= results.Length - 1; ctr++)

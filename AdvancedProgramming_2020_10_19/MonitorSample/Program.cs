@@ -20,8 +20,6 @@ namespace MonitorSample
 
                 //if (Monitor.TryEnter(x))
                 //{
-                        
-
                 //  Monitor.Exit(x);
                 //}
                 Monitor.Enter(x); //Codeabschnitt wird vom ersten Thread gesperrt

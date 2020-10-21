@@ -16,12 +16,15 @@ namespace SingletonSampleQ2
         private static volatile Singleton instance;
         private static object lockObject = new Object();
         private Singleton() { }
+        
         public static Singleton Instance
         {
             get
             {
                 if (instance == null)
                 {
+
+                    // Verhindert das beim Singleton Pattern ein Dead-Lock ensteht.
                     lock (lockObject)
                     {
                         if (instance == null)

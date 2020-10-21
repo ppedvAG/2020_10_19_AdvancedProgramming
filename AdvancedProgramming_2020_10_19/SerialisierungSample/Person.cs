@@ -14,6 +14,7 @@ namespace SerialisierungSample
         public string Nachname { get; set; }
         public byte Alter { get; set; }
 
+        [NonSerialized] //Non Serialized agiert nur mit Fields(public Member-Variablen) zusammen und nicht mit Properties
         public decimal Kontostand;
     }
 

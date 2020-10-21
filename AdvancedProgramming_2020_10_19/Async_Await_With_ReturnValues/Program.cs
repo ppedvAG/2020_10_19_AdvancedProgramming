@@ -75,6 +75,8 @@ namespace Async_Await_With_ReturnValues
             }
         }
 
+
+        //Methode zum Anzeigen des Ergebnisses aus  async/await
         public static void Method3(int count)
         {
             Console.WriteLine("Total count is " + count);

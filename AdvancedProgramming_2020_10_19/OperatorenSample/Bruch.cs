@@ -16,7 +16,7 @@ namespace OperatorenSample
 
         public int Nenner { get; set; }
 
-        public static bool operator == (Bruch left, Bruch right)
+        public static bool operator == (Bruch left, Bruch right) // Wenn dieser Operator verwendet wird, wird man von .NET Framework aufgefordert, dass man den Operator != auch ausprogrammiert.
         {
             if (left.Nenner != left.Nenner)
                 return false;
@@ -38,7 +38,7 @@ namespace OperatorenSample
             return true;
         }
 
-        public static Bruch operator * (Bruch left, Bruch right)
+        public static Bruch operator * (Bruch left, Bruch right) 
         {
             return new Bruch(left.Zähler * right.Zähler, left.Nenner * right.Nenner);
         }
@@ -47,6 +47,17 @@ namespace OperatorenSample
         {
             return new Bruch(left.Zähler * right, left.Nenner);
         }
+
+        public static bool operator < (Bruch left, Bruch right)
+        {
+            return true;
+        }
+
+        public static bool operator >(Bruch left, Bruch right)
+        {
+            return true;
+        }
+
 
         //public static Bruch operator + (Bruch left, Bruch right)
         //{

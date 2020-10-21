@@ -5,3 +5,29 @@ https://referencesource.microsoft.com/
 
 Weitere Microsoft Beispiele (Advanced) 
 -> https://github.com/dotnet/samples
+
+
+
+TPL - Weitere Themen
+https://docs.microsoft.com/de-de/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks#about-continuations
+
+
+C# Versionen - Überblick
+https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/proposals/csharp-7.1/async-main
+
+
+C# Überladen von Operatoren
+https://docs.microsoft.com/de-de/dotnet/csharp/language-reference/operators/operator-overloading
+
+
+Gernic Interfaces:
+https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/generics/generic-interfaces
+
+
+
+
+
+
+101 Linq Samples 
+- Online Version -> https://linqsamples.com/
+- Offline Version -> https://docs.microsoft.com/en-us/samples/dotnet/try-samples/101-linq-samples/
